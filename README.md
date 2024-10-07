@@ -7,7 +7,7 @@ Welcome to Omkar's Portfolio! This showcases my expertise in full-stack developm
 ## Accessing the Portfolio
 
 - To view the portfolio, simply open `index.html` in your web browser and get redirected from [incpi.github.io](https://incpi.github.io).
-- You can also visit the new site directly at: [https://i-incpis-projects.vercel.app](https://i-incpis-projects.vercel.app).
+- You can also visit the new site directly at: [https://i-ncpi.vercel.app/](https://i-ncpi.vercel.app/).
 
 ---
 
